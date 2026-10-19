@@ -1,0 +1,16 @@
+{
+  "video_card_points_mixed": true,
+  "mixed_server_quote": {
+    "path": "/quote",
+    "body": {
+      "kind": "video",
+      "method": "mixed",
+      "videoId": "gm-m1",
+      "points": 1000
+    }
+  },
+  "vip_card_only": true,
+  "registered_products": 5,
+  "no_fake_approval_controls": true,
+  "errors": []
+}
